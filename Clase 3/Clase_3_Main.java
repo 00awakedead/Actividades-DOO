@@ -1,7 +1,5 @@
 import java.sql.SQLOutput;
-
-public class Main {
-
+public class Clase_3_Main {
 
     //el inicio de mi aplicación
     public static void main(String[] args) {
@@ -45,7 +43,7 @@ public class Main {
         System.out.println("Total: " + totalCompra);
 
         //Mostrar la sobrecarga
-        System.out.println("COmpra con descuento");
+        System.out.println("Compra con descuento");
         double totalDescuento = teclado.calcularPrecioFinal(2, 30);
 
         //Mostramos el total después del descuento
