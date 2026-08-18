@@ -1,4 +1,4 @@
-public class Main {
+public class Clase_2_Main {
     public static void main(String[] args){
 
         System.out.println("===== JUGADOR =====");
